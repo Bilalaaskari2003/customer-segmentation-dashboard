@@ -1,9 +1,10 @@
-numpy==2.0.0
+numpy==1.26.4
 pandas==2.1.4
 scikit-learn==1.5.2
 plotly==5.22.0
 streamlit==1.40.0
 matplotlib
 seaborn
+
 
 
